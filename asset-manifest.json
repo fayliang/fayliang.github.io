@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fayliang.github.io/static/css/main.13d5cdbb.css",
+    "main.js": "/fayliang.github.io/static/js/main.aa74ad7c.js",
+    "static/media/greencircles.png": "/fayliang.github.io/static/media/greencircles.3aa4aebc3a3b63a9e0df.png",
+    "index.html": "/fayliang.github.io/index.html",
+    "main.13d5cdbb.css.map": "/fayliang.github.io/static/css/main.13d5cdbb.css.map",
+    "main.aa74ad7c.js.map": "/fayliang.github.io/static/js/main.aa74ad7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13d5cdbb.css",
+    "static/js/main.aa74ad7c.js"
+  ]
+}
